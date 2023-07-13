@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "2afff8d7-2e9f-4e26-912f-9d2f131cbf0f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19841941733680__2afff8d7-2e9f-4e26-912f-9d2f131cbf0f-1688280355a04c7dd8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Language Changed Successfully",
+            "use_h1": false
+          }
+        },
+        "template--19841941733680__2afff8d7-2e9f-4e26-912f-9d2f131cbf0f-1688280355a04c7dd8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You have successfully changed your preferred language of communication to Arabic<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19841941733680__2afff8d7-2e9f-4e26-912f-9d2f131cbf0f-1688280355a04c7dd8-0",
+        "template--19841941733680__2afff8d7-2e9f-4e26-912f-9d2f131cbf0f-1688280355a04c7dd8-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2afff8d7-2e9f-4e26-912f-9d2f131cbf0f"
+  ]
+}

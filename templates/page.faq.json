@@ -1,0 +1,299 @@
+{
+  "sections": {
+    "heading": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 300,
+        "image_link": "",
+        "subheading": "",
+        "title": "Customer Help",
+        "title_size": 52,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>If talking to a real-life human is more your thing, you can reach our Customer Happiness Team via email (below).<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "FAQ",
+        "use_h1": false,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "How can we help?"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What are the available payment methods?",
+            "answer": "<p>We currently accept payments through Mada, Visa, Mastercard, American Express, KNET, Apple Pay and Buy Now Pay Later with (Tabby)<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Why is the promo code not working?",
+            "answer": "<p>Promotional codes are valid only in accordance with their terms, until the date stated, are not redeemable for cash and cannot be used in conjunction with any other offer, sale or promotion. Some codes are also only available for a single use.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2"
+      ],
+      "settings": {
+        "title": "Payment"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "I have an issue when trying to add an item to the cart.",
+            "answer": "<p>Sorry to hear that!<br\/> If issues persists and you can’t solve it, kindly contact us:<br\/> 8001210010<br\/> wecare@drslounge.net<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "I have placed an order and the amount was deducted, but I didt receive a confirmation!",
+            "answer": "<p>Sorry to hear that!<br\/> Please wait for 10 minutes, if you do not receive your order confirmation with invoice, please contact our customer service team:<br\/> 8001210010<br\/> wecare@drslounge.net<\/p>"
+          }
+        },
+        "75383b73-0b87-4f3a-b713-c5e92e74ddd4": {
+          "type": "question",
+          "settings": {
+            "title": "Can I change or amend the items in my order once it has been placed?",
+            "answer": "<p>This service is not available. <br\/> To change or add an item, the order has to be cancelled or another order has to be submitted.<\/p>"
+          }
+        },
+        "f4425a05-f62f-456a-9536-65c78d2af29c": {
+          "type": "question",
+          "settings": {
+            "title": "I have received a damaged item!",
+            "answer": "<p>We apologize to you. If you receive any damaged or defective item, please contact our customer service team to arrange a replacement:<br\/> 8001210010<br\/> wecare@drslounge.net<\/p>"
+          }
+        },
+        "271c9619-b11b-409c-83b2-7e3184390657": {
+          "type": "question",
+          "settings": {
+            "title": "I have received a wrong item with my order!",
+            "answer": "<p>We apologize to you. If you receive any wrong item, please contact our customer service team to arrange a replacement:<br\/> 8001210010<br\/> wecare@drslounge.net<\/p>"
+          }
+        },
+        "aaa3cfcb-9bef-4b0d-8699-f95f674e6a4c": {
+          "type": "question",
+          "settings": {
+            "title": "An item I want is out of stock in website, when will it become available?",
+            "answer": "<p>Follow the website constantly because the process of updating products and their quantities is daily, or you can contact the customer service team to verify the required piece.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "75383b73-0b87-4f3a-b713-c5e92e74ddd4",
+        "f4425a05-f62f-456a-9536-65c78d2af29c",
+        "271c9619-b11b-409c-83b2-7e3184390657",
+        "aaa3cfcb-9bef-4b0d-8699-f95f674e6a4c"
+      ],
+      "settings": {
+        "title": "Orders"
+      }
+    },
+    "18519eaf-8176-4856-a7ce-5c40df9b3367": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--16859297546544__18519eaf-8176-4856-a7ce-5c40df9b3367-168115899403c1a24f-0": {
+          "type": "question",
+          "settings": {
+            "title": "How much is the cost for shipping?",
+            "answer": "<p>Shipping cost within the Kingdom of Saudi Arabia is 25 Saudi Riyals<br\/> The shipping cost to the GCC ranges between 35-60 Saudi Riyals<\/p>"
+          }
+        },
+        "template--16859297546544__18519eaf-8176-4856-a7ce-5c40df9b3367-168115899403c1a24f-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do Drs Lounge ship to all cities in Saudi Arabia?",
+            "answer": "<p>Yes, our delivery service covers all regions and governorates of the Kingdom of Saudi Arabia.<\/p>"
+          }
+        },
+        "1f9bddad-7af4-4390-92fe-c4fbbf244435": {
+          "type": "question",
+          "settings": {
+            "title": "Where does Drs Lounge ship to?",
+            "answer": "<p>Of course, international shipping service is available to the GCC countries, and we are working to cover the Arab world soon.<\/p>"
+          }
+        },
+        "b8e95e92-428a-4ed0-9d47-8b563caf0514": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to deliver my order?",
+            "answer": "<p>Delivery time:<br\/> Saudi Arabia: 3-5 working days<br\/> GCC: 5-10 working days<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16859297546544__18519eaf-8176-4856-a7ce-5c40df9b3367-168115899403c1a24f-0",
+        "template--16859297546544__18519eaf-8176-4856-a7ce-5c40df9b3367-168115899403c1a24f-1",
+        "1f9bddad-7af4-4390-92fe-c4fbbf244435",
+        "b8e95e92-428a-4ed0-9d47-8b563caf0514"
+      ],
+      "settings": {
+        "title": "Shipping"
+      }
+    },
+    "b8489870-dec3-41f9-a2ce-ec3e3c4c2eea": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "03bb0d3c-0cc8-4785-b15f-3fafac26f7f7": {
+          "type": "question",
+          "settings": {
+            "title": "What is the exchange policy?",
+            "answer": "<p>You can view the full exchange and return policy through the \"Exchange and Return Policies\" page.<\/p>"
+          }
+        },
+        "7f6a3d7f-9f48-4231-85b8-ab9e4c3a9927": {
+          "type": "question",
+          "settings": {
+            "title": "Are return free?",
+            "answer": "<p>In the first replacement process, Drs Lounge bears all costs, and after that the customer bears the replacement costs (for the second or third replacement).<\/p>"
+          }
+        },
+        "2131e236-cad6-4c57-a530-5dea8cb6520a": {
+          "type": "question",
+          "settings": {
+            "title": "Can I refund my order?",
+            "answer": "<p>You can return the item within 7 days from the date of purchase, please consider the following terms and conditions:<br\/> • Products that have offers or discounts no return is permitted.<br\/> • The products must be accompanied by the original purchase invoice.<br\/> • Products are unused and in their original condition when purchased.<br\/> • The products are not removed from the identification card (item card).<br\/> • We regret not replacing or returning underwear, accessories and stethoscopes for health reasons.<\/p>"
+          }
+        },
+        "79391484-8b93-4408-bd98-e9da6f117829": {
+          "type": "question",
+          "settings": {
+            "title": "I ordered from the website, can I exchange my order at the branches?",
+            "answer": "<p>In the case of purchasing from the website, the exchange and return are made through the website only, and it is not permissible to exchange or return in the branches.<\/p>"
+          }
+        },
+        "87f085b0-3ada-4e9d-9ca8-57c351c12bc5": {
+          "type": "question",
+          "settings": {
+            "title": "I ordered through the installment method, how can I exchange part of the order?",
+            "answer": "<p>In the case of payment by installment services, the exchange should be at the same price or higher, and it should not be at a lower price.<br\/> In case of return, only the value of the piece will be refunded (the shipping costes will be deducted from the total amount)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "03bb0d3c-0cc8-4785-b15f-3fafac26f7f7",
+        "7f6a3d7f-9f48-4231-85b8-ab9e4c3a9927",
+        "2131e236-cad6-4c57-a530-5dea8cb6520a",
+        "79391484-8b93-4408-bd98-e9da6f117829",
+        "87f085b0-3ada-4e9d-9ca8-57c351c12bc5"
+      ],
+      "settings": {
+        "title": "Refund & Exchange"
+      }
+    },
+    "79c330fe-cecb-4eb5-89c7-c6d12db08677": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "eac33d1c-6e8b-4707-995e-bfd67ec0b56d": {
+          "type": "question",
+          "settings": {
+            "title": "How I can contact customer service?",
+            "answer": "<p>You can communicate with us through all social media applications, and by directly contacting the customer service team:<br\/> 8001210010<br\/> wecare@drslounge.net<\/p>"
+          }
+        },
+        "7e9e4341-2cf8-48a6-b16e-e4ec875a4397": {
+          "type": "question",
+          "settings": {
+            "title": "Where can I find Drs Lounge?",
+            "answer": "<p>Doctors Lounge branches distributed throughout the Saudi Arabia, our branches:<br\/> Central Region:<br\/> Riyadh - Al Yasmeen<br\/> Riyadh - Sulaymaniyah<br\/> Riyadh - Al-Izdihar<br\/> Riyadh - Granada<br\/> Qassim - Buraydah<br\/> Western Region:<br\/> Jeddah - Prince Sultan Road<br\/> Jeddah – Al-Hamraa<br\/> AL Madinah AL Munawara<br\/> Makkah<br\/> Tabuk<br\/> Eastern Province:<br\/> Al-Khobar<br\/> Qatif<br\/> Southern area:<br\/> Khamis Mushait<br\/> The northern area:<br\/> Hail<br\/> <br\/> You can view the locations of the branches by visiting the “Our Branches” page.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "eac33d1c-6e8b-4707-995e-bfd67ec0b56d",
+        "7e9e4341-2cf8-48a6-b16e-e4ec875a4397"
+      ],
+      "settings": {
+        "title": "Contact"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "faq-content-1",
+    "faq-content-2",
+    "18519eaf-8176-4856-a7ce-5c40df9b3367",
+    "b8489870-dec3-41f9-a2ce-ec3e3c4c2eea",
+    "79c330fe-cecb-4eb5-89c7-c6d12db08677",
+    "contact"
+  ]
+}

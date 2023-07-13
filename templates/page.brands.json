@@ -1,0 +1,324 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "56409a41-35ed-4af3-ac9e-53e6db0d8075": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design-371.png",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_design-370.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/barco",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "shopify:\/\/collections\/barco",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "c5122614-ed0b-45ef-8d8e-c6663df67837": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BARCO PRODUCTS",
+        "collection": "barco",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "0c855879-b57f-4614-9df9-ffa64e59fee9": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_3.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/medelita",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "a2ddfc62-3490-48c9-aa3e-92b2e370abcd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "MEDELITA PRODUCTS",
+        "collection": "medelita",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "752d7386-8dfb-4b54-8b0a-526c9c773766": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_2.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_5.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/classico",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "684dd903-c906-4813-9379-ff50bf2110be": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "CLASSICO PRODUCTS",
+        "collection": "classico",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "b4545a51-fa5e-472a-9326-6e761447a96f": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_7.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_6.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/wonder-wink",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "354d2c31-a5b3-4ac9-b869-54e33b997891": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WONDER WINK PRODUCTS",
+        "collection": "wonder-wink",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "ed00b076-680a-43e0-9d08-d104f4050d9c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/15.png",
+        "mobile_image": "shopify:\/\/shop_images\/16_f80b6bbd-ec31-4d17-97db-383ebe03b6bf.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/landau",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "b6706122-901c-45ff-9406-904403950efb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "LANDAU PRODUCTS",
+        "collection": "landau",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "aa3d73cf-cdab-4c40-b983-f9dacf23bb9d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/16.png",
+        "mobile_image": "shopify:\/\/shop_images\/18.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/white-cross",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "4d43a7bc-1445-48ed-90c3-808e60629d34": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WHITE CROSS PRODUCTS",
+        "collection": "white-cross",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "26af3a57-eb22-4097-8fc5-356599d7eeff": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Desktop_4.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_3.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/figs",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "b5c549c1-2d18-464e-800e-24a543ceb49c": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "FIGS PRODUCTS",
+        "collection": "figs",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "56409a41-35ed-4af3-ac9e-53e6db0d8075",
+    "c5122614-ed0b-45ef-8d8e-c6663df67837",
+    "0c855879-b57f-4614-9df9-ffa64e59fee9",
+    "a2ddfc62-3490-48c9-aa3e-92b2e370abcd",
+    "752d7386-8dfb-4b54-8b0a-526c9c773766",
+    "684dd903-c906-4813-9379-ff50bf2110be",
+    "b4545a51-fa5e-472a-9326-6e761447a96f",
+    "354d2c31-a5b3-4ac9-b869-54e33b997891",
+    "ed00b076-680a-43e0-9d08-d104f4050d9c",
+    "b6706122-901c-45ff-9406-904403950efb",
+    "aa3d73cf-cdab-4c40-b983-f9dacf23bb9d",
+    "4d43a7bc-1445-48ed-90c3-808e60629d34",
+    "26af3a57-eb22-4097-8fc5-356599d7eeff",
+    "b5c549c1-2d18-464e-800e-24a543ceb49c"
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "sections": {
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "cb2a3074-2d5a-40a4-8e39-79db51fdc184": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero1.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "UNIQUE & CLASSY \nSTYLED MEDICAL \nSCRUBS",
+            "title_size": 38,
+            "title_size_mobile": 22,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "SHOP WOMEN",
+            "button_url_1": "shopify:\/\/collections\/female-top",
+            "button_label_2": "SHOP MEN",
+            "button_url_2": "shopify:\/\/collections\/male-top",
+            "text_alignment": "center left"
+          }
+        },
+        "72823bbd-4a33-46fc-bb52-e97db28aa7d6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero2.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "Innovative designs for healthcare professionals",
+            "title_size": 38,
+            "title_size_mobile": 22,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "Shop accessories",
+            "button_url_1": "shopify:\/\/collections\/accessories",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "d1696449-f312-4294-8a6f-9bead6efb53d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero3.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext<\/p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center left"
+          }
+        }
+      },
+      "block_order": [
+        "cb2a3074-2d5a-40a4-8e39-79db51fdc184",
+        "72823bbd-4a33-46fc-bb52-e97db28aa7d6",
+        "d1696449-f312-4294-8a6f-9bead6efb53d"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": true,
+        "overlay_style": "box",
+        "slide_transition": "zoom",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 10
+      }
+    },
+    "04b9b928-45c2-46d4-9e0f-58ee93839136": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/UPS_24ab3555-e758-46fd-bf3d-cba07e81496b.png",
+        "mobile_image": "shopify:\/\/shop_images\/UPS_Mobile_9d96d0a0-5a40-4c89-860c-199ade92a270.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16359278676808bea5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "collection": "best-sellers",
+        "show_vendor": true,
+        "enable_carousel": true,
+        "grid": 5,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "16359278867b92de38": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_44.png",
+        "image_2": "shopify:\/\/shop_images\/Frame_45.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "ABOUT DRS LOUNGE",
+        "use_h1": false,
+        "text": "<p>Drs Lounge is a leading Saudi brand in health and medical uniforms established in 2014 succeed in providing elite and fashionable medical uniform brands under one roof by signing exclusivity among GCC and MENA region.<\/p>",
+        "button_label": "ABOUT US",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "aa4b3949-c8b3-4e1b-aaf0-e37326d0c72e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 500,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "SHOP BY CATEGORY",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "16359279164ff7d3f3": {
+      "type": "gallery",
+      "blocks": {
+        "16359279164ff7d3f3-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scrubsss-1.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Male & Female",
+            "title": "PANTS",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/pants",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16359279164ff7d3f3-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Labcoatss.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Male & Female",
+            "title": "Lab Coats",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/lab-coats",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16359279164ff7d3f3-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accessories.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Pens, cardholders and more",
+            "title": "ACCESSORIES",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/accessories",
+            "text_alignment": "bottom left"
+          }
+        },
+        "474c4491-283d-4680-a37b-7b5a444e7e62": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-337.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "BEST QUALITY",
+            "title": "STETHOSCOPES",
+            "button_label": "SHOP NOW",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "7528b5a6-360e-4a34-992e-6ad2e7709a0a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16359279164ff7d3f3-0",
+        "16359279164ff7d3f3-1",
+        "16359279164ff7d3f3-2",
+        "474c4491-283d-4680-a37b-7b5a444e7e62",
+        "7528b5a6-360e-4a34-992e-6ad2e7709a0a"
+      ],
+      "settings": {
+        "grid": 3,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "box",
+        "button_style": "primary"
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-0",
+        "16359281184fd0d618-1"
+      ],
+      "settings": {
+        "title": "From the people",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16359285201c71bbb1": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/youtu.be\/rgx_YckmTGA",
+        "placeholder_image": "shopify:\/\/shop_images\/Clearance.png",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 42,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "height_desktop": 580,
+        "height_mobile": 180,
+        "full_width": true,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "2223ed2a-ea41-4712-9e2a-9ea539f76eb9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Collection",
+        "collection": "new-collection",
+        "show_vendor": true,
+        "enable_carousel": true,
+        "grid": 5,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "ca7e2721-58ab-44ed-afa4-e17d33fd6784": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "SHOP BY GENDER",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "5c1bf349-75de-4084-b22f-ab487a9e2416": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "857b3033-c048-46c0-b257-ac4e6d61e321": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner_b465015d-aefa-404b-82f4-3a1d3d235e20.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "SHOP BY GENDER",
+            "title_size": 50,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "857b3033-c048-46c0-b257-ac4e6d61e321"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 200,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "37e521c3-8ea7-4afd-84d5-e99dba26a545": {
+      "type": "gallery",
+      "blocks": {
+        "template--16859297448240__37e521c3-8ea7-4afd-84d5-e99dba26a545-1669367638704912cc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_21.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "MALE",
+            "link": "shopify:\/\/pages\/men",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--16859297448240__37e521c3-8ea7-4afd-84d5-e99dba26a545-1669367638704912cc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_23_53814547-6b33-4084-ba23-2b68339442b2.png",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "FEMALE",
+            "link": "shopify:\/\/pages\/women",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16859297448240__37e521c3-8ea7-4afd-84d5-e99dba26a545-1669367638704912cc-0",
+        "template--16859297448240__37e521c3-8ea7-4afd-84d5-e99dba26a545-1669367638704912cc-1"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 630,
+        "mobile_image_height": 290,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "50c23e1d-e8d7-4ad1-8574-f50bcb51804b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "THE BRANDS",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "221aad35-6646-4215-a287-f6824a40c67e": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3.png",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Our guiding principles are present in every decision and essential to our journey of becoming a responsible brand: Featuring elevated design, advanced fabrics, concierge service, a strong commitment to our people, and a responsibility to our environment.<\/p><p>-California, US-<\/p>",
+            "button_label": "SHOP MEDELITA",
+            "link": "shopify:\/\/collections\/medelita"
+          }
+        },
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1.png",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Classico brand was created to make the day-to-day life of healthcare practitioners’ easier and better. We are dedicated to developing and making available medical supplies such as medical clothing and stethoscopes, giving due importance on lab coats that are not only fashionable but practical.<\/p><p>-Japan-<\/p>",
+            "button_label": "SHOP CLASSICO",
+            "link": "shopify:\/\/collections\/classico"
+          }
+        },
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design-419.png",
+            "image_width": 700,
+            "title": "",
+            "text": "<p>White Cross Uniforms is a family business, the base of the foundation of the business: QUALITY of materials, workmanship, and service. made its debut on the market in 1915. The brand recently celebrated its 100th anniversary!<\/p><p>-Canada-<\/p>",
+            "button_label": "SHOP WHITE CROSS",
+            "link": "shopify:\/\/collections\/white-cross"
+          }
+        }
+      },
+      "block_order": [
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-0",
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-1",
+        "template--16859297448240__221aad35-6646-4215-a287-f6824a40c67e-1669367673fffd0902-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "0415da4f-8614-45e4-b1ef-1ae5015f825e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 200,
+        "height_mobile": 100,
+        "image_link": "",
+        "subheading": "",
+        "title": "INSTAGRAM",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "16697161502ad04623": {
+      "type": "apps",
+      "blocks": {
+        "f894e2a3-a098-456d-8db5-15c1cfa6c81a": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "f894e2a3-a098-456d-8db5-15c1cfa6c81a"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1635928697c562053a": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Riyadh - Al Izdihar",
+        "address": "<p>Saturday-Thursday : 9:00am - 11:30pm<\/p><p><\/p><p>Friday: 2:00pm - 11:30pm<\/p>",
+        "button": "Location",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "2545 Uthman Ibn Affan Branch Rd, Al Izdihar, 6765 طريق عثمان بن عفان الفرعي،, Riyadh 12485, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver"
+      }
+    },
+    "91d88774-93d7-4363-ab7d-cac3a1216856": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner_b465015d-aefa-404b-82f4-3a1d3d235e20.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "MORE LOCATIONS",
+        "title_size": 50,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "d5386d1f-f16d-4737-9d3c-6001819522cd": {
+      "type": "compact-messages",
+      "disabled": true,
+      "blocks": {
+        "template--16859297448240__d5386d1f-f16d-4737-9d3c-6001819522cd-1669717571eabf7b42-0": {
+          "type": "message",
+          "settings": {
+            "heading": "View more lcoations",
+            "subheading": "More than 10 locations all over The Kingdom of Saudi Arabia",
+            "link_url": ""
+          }
+        },
+        "template--16859297448240__d5386d1f-f16d-4737-9d3c-6001819522cd-1669717571eabf7b42-1": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16859297448240__d5386d1f-f16d-4737-9d3c-6001819522cd-1669717571eabf7b42-0",
+        "template--16859297448240__d5386d1f-f16d-4737-9d3c-6001819522cd-1669717571eabf7b42-1"
+      ],
+      "settings": {
+        "head_not_col_bg": "#ffffff",
+        "head_not_col_txt1": "#171717",
+        "head_not_col_txt2": "#000000",
+        "head_not_mob_show": true,
+        "head_not_mob_text": "",
+        "head_not_mob_url": ""
+      }
+    }
+  },
+  "order": [
+    "16359276425da8ce46",
+    "04b9b928-45c2-46d4-9e0f-58ee93839136",
+    "16359278676808bea5",
+    "16359278867b92de38",
+    "aa4b3949-c8b3-4e1b-aaf0-e37326d0c72e",
+    "16359279164ff7d3f3",
+    "16359281184fd0d618",
+    "16359285201c71bbb1",
+    "2223ed2a-ea41-4712-9e2a-9ea539f76eb9",
+    "ca7e2721-58ab-44ed-afa4-e17d33fd6784",
+    "5c1bf349-75de-4084-b22f-ab487a9e2416",
+    "37e521c3-8ea7-4afd-84d5-e99dba26a545",
+    "50c23e1d-e8d7-4ad1-8574-f50bcb51804b",
+    "221aad35-6646-4215-a287-f6824a40c67e",
+    "0415da4f-8614-45e4-b1ef-1ae5015f825e",
+    "16697161502ad04623",
+    "1635928697c562053a",
+    "91d88774-93d7-4363-ab7d-cac3a1216856",
+    "d5386d1f-f16d-4737-9d3c-6001819522cd"
+  ]
+}

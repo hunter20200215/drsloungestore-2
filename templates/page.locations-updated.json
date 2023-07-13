@@ -1,0 +1,265 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "789de7a8-ea70-4f87-82a6-58d9a81f6ca3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design-454.png",
+        "mobile_image": "shopify:\/\/shop_images\/Untitled_design-380.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "LOCATIONS",
+        "title_size": 50,
+        "title_size_mobile": 20,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "box"
+      }
+    },
+    "0775fb87-c191-4bc8-97b1-8c22253a6956": {
+      "type": "multi-column",
+      "blocks": {
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Izdihar (Riyadh)",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "Directions",
+            "link": "https:\/\/maps.google.com\/?daddr=2545%20Uthman%20Ibn%20Affan%20Branch%20Rd,%20Al%20Izdihar,%206765%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%81%D8%A7%D9%86%20%D8%A7%D9%84%D9%81%D8%B1%D8%B9%D9%8A%D8%8C,%20Riyadh%2012485,%20Saudi%20Arabia"
+          }
+        },
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Yasmeen (Riyadh)",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/goo.gl\/maps\/mS1LcazqETcmNyAG8"
+          }
+        },
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Gharnatah (Riyadh)",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Drs%20Lounge,%20Ash%20Shaikh%20Subah%20Al%20Ahmad,%20As%20Sulimaniyah,%20Riyadh%2012232,%20Saudi%20Arabia"
+          }
+        },
+        "50c77d9d-9e01-4bc2-8d22-8f46747339ba": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Sulimania (Riyadh)",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Drs%20Lounge,%20Ash%20Shaikh%20Subah%20Al%20Ahmad,%20As%20Sulimaniyah,%20Riyadh%2012232,%20Saudi%20Arabia"
+          }
+        },
+        "f70684a4-c8d8-45a5-994d-73f4b53fc8cd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Qaseem",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Drs%20Lounge%D8%8C%20Al%20Muntazah,%206180%D8%8C,%20Buraydah%2052376,%20Saudi%20Arabia"
+          }
+        },
+        "bd5c6532-fdb9-4894-9381-a32524ca54f6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Jeddah Outlet",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Drs%20Lounge%20Al-Hamra%27a%20|%20%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC%20%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1,%20Arafat,%20%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1%D8%8C%D8%8C%20Jeddah%2023323,%20Saudi%20Arabia"
+          }
+        },
+        "2ba8b0da-be2b-48f1-92fe-c046e2701167": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Prince Sultan Branch (Jeddah)",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Drs%20Lounge%20Al-Hamra%27a%20|%20%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC%20%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1,%20Arafat,%20%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1%D8%8C%D8%8C%20Jeddah%2023323,%20Saudi%20Arabia"
+          }
+        },
+        "1d08ed89-06a5-439e-a64e-1a81e93c2105": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Khobar",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=8668+7X%20%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC%20%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%20|%20Drs%20Lounge%20Al%20Khobar,%20%D9%85%D8%A8%D9%86%D9%89%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%89,%20Al%20Khobar%2034423,%20Saudi%20Arabia"
+          }
+        },
+        "277c8a34-94f9-4fa6-881c-feda2794f649": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Al Madinah",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=6724%20King%20Abdullah%20Branch%20Rd,%20Al%20Ihn,%20%D8%AD%D9%8A,%203836,%20Medina%2042319,%20Saudi%20Arabia"
+          }
+        },
+        "19b0b8b8-e04e-4d95-b9d5-90f74c09b8ff": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Tabuk Branch",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC%20%D8%AA%D8%A8%D9%88%D9%83%20|%20Drs%20Lounge%20Tabuk,%20Alqadsiyyah,%20Tabuk%2047717,%20Saudi%20Arabia"
+          }
+        },
+        "d58851dd-f60c-4826-9d40-d35380f728a3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Qatif Branch",
+            "text": "<p>Saturday - Thursday 9:30am - 11:00pm<\/p><p><\/p><p>Friday 4:00pm - 11:00pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=Dr%27s%20Lounge%20|%20%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC,%206463%20Abdullah%20Bin%20Alharith%20St,%20%D8%AD%D9%8A%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B7%D8%A6,%20Al%20Qatif%2032617,%20Saudi%20Arabia"
+          }
+        },
+        "36b0df40-b041-4238-8294-f88fe51d1c16": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Makkah Branch",
+            "text": "<p>Saturday - Thursday 9:00am - 12:00am<\/p><p><\/p><p>Friday 2:00pm - 12:00am<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%B2%20%D9%84%D8%A7%D9%88%D9%86%D8%AC,%20Ibrahim%20Al%20Joufaili,%20An%20Naseem,%20Mecca%2024372,%20Saudi%20Arabia"
+          }
+        },
+        "3b72c972-d9f9-4126-a65f-a69d028119eb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Hail",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/maps.google.com\/?daddr=%D9%85%D8%AC%D9%85%D8%B9%20%D8%AD%D8%A7%D8%A6%D9%84%20%D8%B3%D9%83%D9%88%D9%8A%D8%B1,%20Alwusayta%27,%20%D8%AD%D9%8A,%20Hail%2055421,%20Saudi%20Arabia"
+          }
+        },
+        "42de1819-2a8b-461d-89fa-7cd1bed659bd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Khamis Mushait",
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30am<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "button_label": "DIRECTIONS",
+            "link": "https:\/\/goo.gl\/maps\/gyi2X4xxALMAryMo6"
+          }
+        }
+      },
+      "block_order": [
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-0",
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-1",
+        "template--17741959430448__0775fb87-c191-4bc8-97b1-8c22253a6956-1674553362ec4a6383-2",
+        "50c77d9d-9e01-4bc2-8d22-8f46747339ba",
+        "f70684a4-c8d8-45a5-994d-73f4b53fc8cd",
+        "bd5c6532-fdb9-4894-9381-a32524ca54f6",
+        "2ba8b0da-be2b-48f1-92fe-c046e2701167",
+        "1d08ed89-06a5-439e-a64e-1a81e93c2105",
+        "277c8a34-94f9-4fa6-881c-feda2794f649",
+        "19b0b8b8-e04e-4d95-b9d5-90f74c09b8ff",
+        "d58851dd-f60c-4826-9d40-d35380f728a3",
+        "36b0df40-b041-4238-8294-f88fe51d1c16",
+        "3b72c972-d9f9-4126-a65f-a69d028119eb",
+        "42de1819-2a8b-461d-89fa-7cd1bed659bd"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "use_alt_bg": false
+      }
+    },
+    "ddf6c965-0441-432e-89a5-ed6b7225bdeb": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--17741959430448__ddf6c965-0441-432e-89a5-ed6b7225bdeb-1674554834e168e4bb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Hail",
+            "use_h1": false
+          }
+        },
+        "template--17741959430448__ddf6c965-0441-432e-89a5-ed6b7225bdeb-1674554834e168e4bb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+            "enlarge_text": false
+          }
+        },
+        "1595161d-57e2-4cd7-b60f-4fbc01cb1cab": {
+          "type": "button",
+          "settings": {
+            "button_label": "DIRECTIONS",
+            "button_link": "https:\/\/maps.google.com\/?daddr=%D9%85%D8%AC%D9%85%D8%B9%20%D8%AD%D8%A7%D8%A6%D9%84%20%D8%B3%D9%83%D9%88%D9%8A%D8%B1,%20Alwusayta%27,%20%D8%AD%D9%8A,%20Hail%2055421,%20Saudi%20Arabia",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--17741959430448__ddf6c965-0441-432e-89a5-ed6b7225bdeb-1674554834e168e4bb-0",
+        "template--17741959430448__ddf6c965-0441-432e-89a5-ed6b7225bdeb-1674554834e168e4bb-1",
+        "1595161d-57e2-4cd7-b60f-4fbc01cb1cab"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "left",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "789de7a8-ea70-4f87-82a6-58d9a81f6ca3",
+    "0775fb87-c191-4bc8-97b1-8c22253a6956",
+    "ddf6c965-0441-432e-89a5-ed6b7225bdeb"
+  ]
+}

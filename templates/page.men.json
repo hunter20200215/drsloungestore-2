@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "9c30df17-b046-4cb3-9ba0-fb7d4332c5e1": {
+      "type": "collection-list",
+      "blocks": {
+        "041347e6-ba96-46dc-bf55-add8504b97a8": {
+          "type": "collection",
+          "settings": {
+            "collection": "male-top"
+          }
+        },
+        "ad16e86a-4cca-4f32-a2f3-02f391157ab3": {
+          "type": "collection",
+          "settings": {
+            "collection": "male-pant"
+          }
+        },
+        "62d00403-9e9e-4ea8-82db-a1cfc4b3c00b": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "male-layer"
+          }
+        },
+        "a1939f45-24eb-4e87-8026-09e9ab5b4ae0": {
+          "type": "collection",
+          "settings": {
+            "collection": "male-jackets"
+          }
+        },
+        "6e515ed6-1746-404b-b103-a9abf98ea0b0": {
+          "type": "collection",
+          "settings": {
+            "collection": "lab-coat-male"
+          }
+        }
+      },
+      "block_order": [
+        "041347e6-ba96-46dc-bf55-add8504b97a8",
+        "ad16e86a-4cca-4f32-a2f3-02f391157ab3",
+        "62d00403-9e9e-4ea8-82db-a1cfc4b3c00b",
+        "a1939f45-24eb-4e87-8026-09e9ab5b4ae0",
+        "6e515ed6-1746-404b-b103-a9abf98ea0b0"
+      ],
+      "settings": {
+        "title": "Men",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": false,
+        "full_width": false
+      }
+    },
+    "a7090a87-481b-49ed-93d1-9d629f402756": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "TOPS",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/male-top",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "PANTS",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/male-pant",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "LAYERS",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/male-layer",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-3": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "JACKET",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/male-jackets",
+            "text_alignment": "bottom left"
+          }
+        },
+        "d622dbff-173b-467a-b54a-788de0214eba": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "LAB COATS",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/lab-coat-male",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-0",
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-1",
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-2",
+        "template--17520592552240__a7090a87-481b-49ed-93d1-9d629f402756-16732446647aede7f5-3",
+        "d622dbff-173b-467a-b54a-788de0214eba"
+      ],
+      "settings": {
+        "grid": 2,
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9c30df17-b046-4cb3-9ba0-fb7d4332c5e1",
+    "a7090a87-481b-49ed-93d1-9d629f402756"
+  ]
+}

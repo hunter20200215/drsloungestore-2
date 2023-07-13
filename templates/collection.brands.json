@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "88ecdb52-89eb-45a1-a0bf-857608844a24": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "{{ collection.metafields.custom.desktop_banner_image.value }}",
+        "mobile_image": "{{ collection.metafields.custom.mobile_banner_image.value }}",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 50,
+        "title_size_mobile": 20,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "box"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": true,
+        "show_total": true,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "all",
+        "show_filter_counts": false,
+        "show_disabled_filters": false,
+        "ajax_products": true,
+        "auto_apply_hide_unavailable": false,
+        "enable_sticky_filter": false,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    }
+  },
+  "order": [
+    "88ecdb52-89eb-45a1-a0bf-857608844a24",
+    "main"
+  ]
+}

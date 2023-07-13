@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": true,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "01938d1c-d1c0-4b8c-8878-32d94c19a9b1": {
+          "type": "sharing",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "vendor",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "01938d1c-d1c0-4b8c-8878-32d94c19a9b1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": false,
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": true,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "de891c24-b3e7-46ae-a311-c22cbd2ab497": {
+      "type": "product-template-product-list",
+      "settings": {
+        "title": "Pairs well with",
+        "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}",
+        "hide_if_empty": true,
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": false,
+        "full_width": true
+      }
+    },
+    "a89555c6-bfaf-407a-87c2-64214f7fd757": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Access.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Best Sellers",
+        "use_h1": false,
+        "text": "<p>Check out our best-selling products now and get the most popular items on the market!<\/p>",
+        "button_label": "Shop BEST SELLERS",
+        "button_link": "shopify:\/\/collections\/best-sellers",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "f8a3e01a-a5e5-492d-a377-763539df97b7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Acesories_06fd98c5-cd51-4a17-a9af-01a498838936.png",
+        "mobile_image": "shopify:\/\/shop_images\/Acesories_Mob_ddf36064-de2d-48b1-b72d-ddd502769a9a.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "Expertly crafted medical wear accessories",
+        "title_size": 38,
+        "title_size_mobile": 24,
+        "use_h1": false,
+        "text": "<p>Medical accessories that works as hard as you do, with a touch of style<\/p>",
+        "enlarge_text": false,
+        "button_label_1": "Shop MEN",
+        "button_url_1": "shopify:\/\/collections\/male-top",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "box"
+      }
+    },
+    "6fd98ab3-bbae-4087-a934-94165855bc9f": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": false,
+        "code": ""
+      }
+    },
+    "97fd93bd-3b36-4e16-afe7-df2ed3abc87a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "YOU MAY ALSO LIKE",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "title": "",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "be9922b5-f090-4296-aba3-421bff7e4030": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "de891c24-b3e7-46ae-a311-c22cbd2ab497",
+    "a89555c6-bfaf-407a-87c2-64214f7fd757",
+    "f8a3e01a-a5e5-492d-a377-763539df97b7",
+    "6fd98ab3-bbae-4087-a934-94165855bc9f",
+    "97fd93bd-3b36-4e16-afe7-df2ed3abc87a",
+    "recommendations",
+    "be9922b5-f090-4296-aba3-421bff7e4030"
+  ]
+}

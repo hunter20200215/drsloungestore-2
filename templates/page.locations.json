@@ -1,0 +1,462 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "789de7a8-ea70-4f87-82a6-58d9a81f6ca3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Mobile_Banner-2.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "LOCATIONS",
+        "title_size": 50,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "69a69411-4f7e-42c8-98f3-a4f91619a6ab": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__69a69411-4f7e-42c8-98f3-a4f91619a6ab-167221299991f2af13-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Riyadh",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__69a69411-4f7e-42c8-98f3-a4f91619a6ab-167221299991f2af13-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "284141ba-a2bf-4421-93f4-ca3a33737e38": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Al Izdihar",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "2545 Uthman Ibn Affan Branch Rd, Al Izdihar, 6765 طريق عثمان بن عفان الفرعي،, Riyadh 12485, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-352.png"
+      }
+    },
+    "07e4b87e-a86a-4d93-8945-e64fedaae330": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Al Yasmeen",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Al Yasmin, thumamah road intersection with king abdulaziz, Riyadh 13322, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-354.png"
+      }
+    },
+    "14ca9c84-9fbd-4a8a-b11e-ef64d2746355": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Al Sulimania",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Drs Lounge, Ash Shaikh Subah Al Ahmad, As Sulimaniyah, Riyadh 12232, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-356.png"
+      }
+    },
+    "5d2d7a3a-4c73-4d11-9400-5f0146d16f42": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Gharnatah",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "4574 Khalid Ibn Al Walid St, Ghirnatah, 6950, Riyadh 13241, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-357.png"
+      }
+    },
+    "dedd0526-7b05-41ee-a9fa-04c594b04abe": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__dedd0526-7b05-41ee-a9fa-04c594b04abe-16722152245e6236d0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Al Qaseem",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__dedd0526-7b05-41ee-a9fa-04c594b04abe-16722152245e6236d0-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    },
+    "b04f08b2-37f8-4859-aabd-2204003ccd01": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#f4f4f4",
+        "full_width": true,
+        "heading": "Al Qaseem",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Drs Lounge، Al Muntazah, 6180،, Buraydah 52376, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-358.png"
+      }
+    },
+    "7c1c4c16-ee87-4379-9ee5-80da68a3e54f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__7c1c4c16-ee87-4379-9ee5-80da68a3e54f-16722152245e6236d0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Jeddah",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__7c1c4c16-ee87-4379-9ee5-80da68a3e54f-16722152245e6236d0-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ed860ade-4053-4b9c-89b7-7d0239c2202f": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Jeddah Outlet",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Drs Lounge Al-Hamra'a | دكتورز لاونج الحمراء, Arafat, الحمراء،، Jeddah 23323, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-360.png"
+      }
+    },
+    "67c2ceff-7787-4933-9a99-8c6cf2517d71": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Prince Sultan Branch",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Drs Lounge, Prince Sultan Rd, As Salamah, Jeddah 23437, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-362.png"
+      }
+    },
+    "39bdc65f-5cfa-4ea2-bfae-98037aeed543": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__39bdc65f-5cfa-4ea2-bfae-98037aeed543-167221565055e00d3d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Al Khobar",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__39bdc65f-5cfa-4ea2-bfae-98037aeed543-167221565055e00d3d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    },
+    "b0e172c8-9d4b-40b6-8400-5d9c1b30439c": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#f4f4f4",
+        "full_width": true,
+        "heading": "Al Khobar",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "8668+7X دكتورز لاونج الخبر | Drs Lounge Al Khobar, مبنى الموسى, Al Khobar 34423, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-363.png"
+      }
+    },
+    "71217cee-fe5d-4be7-8951-6e4e1c3fb461": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__71217cee-fe5d-4be7-8951-6e4e1c3fb461-167221565055e00d3d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Al Madinah",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__71217cee-fe5d-4be7-8951-6e4e1c3fb461-167221565055e00d3d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "e478ec57-a1ce-46cb-889a-d7c35dd658bd": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Al Madinah",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "6724 King Abdullah Branch Rd, Al Ihn, حي, 3836, Medina 42319, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-364.png"
+      }
+    },
+    "cf74c46c-54c6-48fe-a32b-a1d8d64fa28a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__cf74c46c-54c6-48fe-a32b-a1d8d64fa28a-167221565055e00d3d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tabuk",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__cf74c46c-54c6-48fe-a32b-a1d8d64fa28a-167221565055e00d3d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    },
+    "b80f94c0-e75a-4f2c-a2d3-992fce513648": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#f4f4f4",
+        "full_width": true,
+        "heading": "Tabuk Branch",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "دكتورز لاونج تبوك | Drs Lounge Tabuk, Alqadsiyyah, Tabuk 47717, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-366.png"
+      }
+    },
+    "375037e7-8b1c-483a-8309-c45fb35ce80c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__375037e7-8b1c-483a-8309-c45fb35ce80c-167221565055e00d3d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Qatif",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__375037e7-8b1c-483a-8309-c45fb35ce80c-167221565055e00d3d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "cb6cc168-1361-48c3-aeb9-8381d9a62e54": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Qatif Branch",
+        "address": "<p>Saturday - Thursday 9:30am - 11:00pm<\/p><p><\/p><p>Friday 4:00pm - 11:00pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "Dr's Lounge | دكتورز لاونج, 6463 Abdullah Bin Alharith St, حي الشاطئ, Al Qatif 32617, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-367.png"
+      }
+    },
+    "4aeabe9a-4e98-4aea-b991-7e29c086181b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__4aeabe9a-4e98-4aea-b991-7e29c086181b-167221565055e00d3d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Makkah",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__4aeabe9a-4e98-4aea-b991-7e29c086181b-167221565055e00d3d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": true
+      }
+    },
+    "97880938-786d-4e2e-bd2c-9da40be0dd6c": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#f4f4f4",
+        "full_width": true,
+        "heading": "Makkah Branch",
+        "address": "<p>Saturday - Thursday 9:00am - 12:00am<\/p><p><\/p><p>Friday 2:00pm - 12:00am<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "دكتورز لاونج, Ibrahim Al Joufaili, An Naseem, Mecca 24372, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-368.png"
+      }
+    },
+    "7227c2a2-b8f9-430d-bcc3-a4148b3ad4f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17360452976944__7227c2a2-b8f9-430d-bcc3-a4148b3ad4f5-1672659039be777739-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Hail",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17360452976944__7227c2a2-b8f9-430d-bcc3-a4148b3ad4f5-1672659039be777739-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "b783e95e-2d90-4607-b389-d2a0f0b6d000": {
+      "type": "map",
+      "settings": {
+        "color_bg": "#ffffff",
+        "full_width": true,
+        "heading": "Hail",
+        "address": "<p>Saturday - Thursday 9:00am - 11:30pm<\/p><p><\/p><p>Friday 2:00pm - 11:30pm<\/p><p><\/p><p>Contact Number <a href=\"tel: 8001210010\" title=\"tel: 8001210010\">8001210010<\/a><\/p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": false,
+        "map_address": "مجمع حائل سكوير, Alwusayta', حي, Hail 55421, Saudi Arabia",
+        "api_key": "",
+        "map_style": "silver",
+        "background_image": "shopify:\/\/shop_images\/Untitled_design-359.png"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "789de7a8-ea70-4f87-82a6-58d9a81f6ca3",
+    "69a69411-4f7e-42c8-98f3-a4f91619a6ab",
+    "284141ba-a2bf-4421-93f4-ca3a33737e38",
+    "07e4b87e-a86a-4d93-8945-e64fedaae330",
+    "14ca9c84-9fbd-4a8a-b11e-ef64d2746355",
+    "5d2d7a3a-4c73-4d11-9400-5f0146d16f42",
+    "dedd0526-7b05-41ee-a9fa-04c594b04abe",
+    "b04f08b2-37f8-4859-aabd-2204003ccd01",
+    "7c1c4c16-ee87-4379-9ee5-80da68a3e54f",
+    "ed860ade-4053-4b9c-89b7-7d0239c2202f",
+    "67c2ceff-7787-4933-9a99-8c6cf2517d71",
+    "39bdc65f-5cfa-4ea2-bfae-98037aeed543",
+    "b0e172c8-9d4b-40b6-8400-5d9c1b30439c",
+    "71217cee-fe5d-4be7-8951-6e4e1c3fb461",
+    "e478ec57-a1ce-46cb-889a-d7c35dd658bd",
+    "cf74c46c-54c6-48fe-a32b-a1d8d64fa28a",
+    "b80f94c0-e75a-4f2c-a2d3-992fce513648",
+    "375037e7-8b1c-483a-8309-c45fb35ce80c",
+    "cb6cc168-1361-48c3-aeb9-8381d9a62e54",
+    "4aeabe9a-4e98-4aea-b991-7e29c086181b",
+    "97880938-786d-4e2e-bd2c-9da40be0dd6c",
+    "7227c2a2-b8f9-430d-bcc3-a4148b3ad4f5",
+    "b783e95e-2d90-4607-b389-d2a0f0b6d000"
+  ]
+}

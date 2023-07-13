@@ -1,0 +1,166 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "bdd2c9df-46d5-4e03-8ed1-44f3dd18c28e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Header.png",
+        "mobile_image": "shopify:\/\/shop_images\/1080_x1080_efd55d99-dcc9-4a9e-ba44-84b02eca1763.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "OUR STORY",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Wear our timeless and reliable medical scrubs with style<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "Shop Now",
+        "button_url_1": "shopify:\/\/collections\/all",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "box"
+      }
+    },
+    "16267a11-941a-4000-ba25-28e97aa67b13": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Quote.png",
+        "mobile_image": "shopify:\/\/shop_images\/Quote_Mobile.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "28d5378f-d0b6-486f-a621-794e34d2a5e0": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_109.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "“Looking good is one thing – but doing good is so much more impotant.”",
+        "use_h1": false,
+        "text": "<p>Drs Lounge is a leading Saudi brand in health and medical uniforms established in 2014 succeed in providing elite and fashionable medical uniform brands under one roof by signing exclusivity among GCC and MENA region.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "1709ede5-928b-47e7-8048-daeb2ebb09a3": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1_7928f6f5-a88e-4071-963e-dc95cd18afcd.png",
+        "mobile_image": "shopify:\/\/shop_images\/3_6bdb91ee-5869-43b6-8ef0-d5210ec63de7.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "74e7b216-0764-4826-ac17-db497914fe9b": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_110.png",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Global innovation",
+        "use_h1": false,
+        "text": "<p>Drs lounge serves medical workers in GCC and MENA through the online store. Drs lounge expanded in the health sector by opening Drslounge Clinic specialised in dermatology. the aim is to provide a VIP treatment and elite services to the community inside the clinic.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "dc6e0b59-acd7-479b-8180-d5b96602ccca": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/UPS_24ab3555-e758-46fd-bf3d-cba07e81496b.png",
+        "mobile_image": "shopify:\/\/shop_images\/UPS_Mobile_9d96d0a0-5a40-4c89-860c-199ade92a270.png",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "bdd2c9df-46d5-4e03-8ed1-44f3dd18c28e",
+    "16267a11-941a-4000-ba25-28e97aa67b13",
+    "28d5378f-d0b6-486f-a621-794e34d2a5e0",
+    "1709ede5-928b-47e7-8048-daeb2ebb09a3",
+    "74e7b216-0764-4826-ac17-db497914fe9b",
+    "dc6e0b59-acd7-479b-8180-d5b96602ccca"
+  ]
+}
